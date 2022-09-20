@@ -1,0 +1,8 @@
+# ignored folders
+/venv
+/__pycache__
+**/__pycache__
+/migrations
+# ignored files
+.env
+.flaskenv
