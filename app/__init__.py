@@ -11,8 +11,3 @@ db = SQLAlchemy(app)
 migrate = Migrate(app, db)
 
 from app import routes, models
-
-app.run(port=5000, debug=True)
-
-
-
